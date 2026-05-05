@@ -10,7 +10,7 @@
 * 深度學習（Deep Learning）
 * YOLO 物件偵測
 * 機械手臂控制（Robot Arm Control）
-* 
+  
 ## 🎯 學習目標
 * 熟悉 Python 程式設計
 * 建立 AI / YOLO 專案能力
